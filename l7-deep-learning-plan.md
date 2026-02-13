@@ -33,9 +33,9 @@
 
 ### 1.3 WebGL 概念性理解
 
-- [ ] 渲染管线概念：顶点数据 → 顶点着色器 → 光栅化 → 片元着色器 → 帧缓冲
-- [ ] Buffer / Texture / Framebuffer 是什么，对照 `packages/renderer/` 理解
-- [ ] 浏览一个 L7 shader 文件（如 `packages/layers/src/point/shaders/`），感受 GLSL 基本语法
+- [x] 渲染管线概念：顶点数据 → 顶点着色器 → 光栅化 → 片元着色器 → 帧缓冲
+- [x] Buffer / Texture / Framebuffer 是什么，对照 `packages/renderer/` 理解
+- [x] 浏览一个 L7 shader 文件（如 `packages/layers/src/point/shaders/`），感受 GLSL 基本语法
 
 ### 1.4 L7 宏观认知
 
